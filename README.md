@@ -1,6 +1,6 @@
 # News Scrapper
 
-Python Script to get full news article from the google search result.
+An scrapper built using python3.6 to get full news article from the google search result.
 
 ## Prerequisites:
 
